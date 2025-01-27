@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkla_gran_ola_pagina_web"]=self["webpackChunkla_gran_ola_pagina_web"]||[]).push([[594],{603:function(a,n,u){u.r(n),u.d(n,{default:function(){return i}});var e=u(6768);const r={class:"about"};function t(a,n){return(0,e.uX)(),(0,e.CE)("div",r,n[0]||(n[0]=[(0,e.Lk)("h1",null,"This is an about page",-1)]))}var s=u(1241);const l={},c=(0,s.A)(l,[["render",t]]);var i=c}}]);
+//# sourceMappingURL=about.ddd12f4f.js.map
